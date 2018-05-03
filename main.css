@@ -1,0 +1,82 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+.header {
+    width: 100%;
+}
+
+.container-fluid {
+    padding: 0px 0px 0px 0px !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+.row {
+    margin: 0px 0px 0px 0px !important;
+}
+
+.col {
+    padding: 0px 0px 0px 0px !important;
+}
+
+.btn {
+    border: transparent
+}
+
+.green-button {
+    background:#99D272;
+    font-size: 4em;
+    border-radius: 1em;
+    padding: 0.5em;
+    font-weight: bolder;
+    margin-bottom: 1.6em;
+}
+
+.question-button {
+    background: transparent;
+    font-size: 2em;
+    border-radius: 1em;
+    padding: 0.5em;
+    font-weight: bolder;
+    margin-bottom: 0.6em;
+}
+
+.black {
+    color: #000000
+}
+
+.top {
+    color: white;
+    background: black;
+    font-size: 2.2em;
+    height: 100px;
+    padding-top: 0.6em;
+}
+
+.white {
+    color: white;    
+}
+
+.question-img {
+    height: 100%;
+    width: 100%;
+}
+
+.question-top {
+    background: black;
+    font-size: 2.2em;
+    height: 50%;
+    padding-top: 0.6em;  
+    width: 100%;
+}
+
+.question-text {
+    vertical-align: middle;
+}
+
+.mid {
+    font-size: 6em;
+    margin: 1.6em 0em 1.6em 0em;
+}
