@@ -16,20 +16,11 @@ body {
 
 .green-button {
     background:#99D272;
-    font-size: 4em;
-    border-radius: 1em;
-    padding: 0.5em;
+    font-size: 80px;
+    border-radius: 90px;
+    padding: 50px;
     font-weight: bolder;
-    margin-bottom: 1.6em;
-}
-
-.question-button {
-    background: transparent;
-    font-size: 2em;
-    border-radius: 1em;
-    padding: 0.5em;
-    font-weight: bolder;
-    margin-bottom: 0.6em;
+    margin-bottom: 250px;
 }
 
 .black {
@@ -46,17 +37,12 @@ body {
 }
 
 .mid {
-    font-size: 98px;
+    font-size: 128px;
     padding: 250px 0px 250px 0px;
 }
 
 .white {
     color: white;    
-}
-
-.question-img {
-    height: 100%;
-    width: 100%;
 }
 
 .question-top {
