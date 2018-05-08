@@ -1,0 +1,145 @@
+/* Base */
+
+body {
+  background-color: #777;
+}
+
+/* Reusable */
+
+.bg-cover {
+  background-size: cover;
+  background-position: center center; 
+}
+
+.heading-primary {
+  color: #000;
+  font-size: 4rem;
+  font-weight: 700;
+} 
+
+.heading-tertiary {
+  font-size: 1.2rem;
+}
+
+
+/* Button */
+
+.btn-green:link,
+.btn-green:visited {
+  font-size: 2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #fff;
+  background-color: rgb(120, 219, 120);
+  text-decoration: none;
+  display: inline-block;
+  padding: 1rem 4rem;
+  border-radius: 100px;
+}
+
+.btn-quiz,
+.btn-quiz:link,
+.btn-quiz:visited {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: #000;
+  background-color: #fff;
+  text-decoration: none;
+  display: block;
+  width: 90%;
+  border-radius: 100px;
+  border: 3px solid #000;
+  cursor: pointer;
+}
+
+.btn-quiz:focus {
+  outline: none;
+}
+
+.btn-quiz:not(:last-child){
+  margin-bottom: 1.5rem;
+}
+
+
+/********************/
+/**** Home Start ****/
+/********************/
+
+
+.header__image {
+  width: 100%;
+  height: 225px;
+}
+
+.header__banner {
+  list-style: none;
+  background: #000;
+  color: #fff;
+  padding-left: 0;
+  margin-bottom: 0;
+  display: flex;
+  text-align: center;
+}
+
+.header__banner li{
+  flex: 1;
+  padding: 1.5rem 0;
+  text-transform: capitalize;
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
+
+.quiz-start {
+  width: 70%;
+  margin: 0 auto; 
+  padding-top: 4rem;
+  min-height: calc(100vh - 309px) ;
+}
+
+/**********************/
+/**** Quiz Question****/
+/**********************/
+
+
+#q2, #q3, #q4, #q5, #q6, #q7, #result {
+  display: none;
+}
+
+.quiz {
+  display: flex;
+  overflow: hidden;
+  min-height: 90vh;
+}
+
+.quiz__left,
+.quiz__right {
+  flex: 50%;
+}
+
+.quiz__title {
+  background-color: #000;
+  color: white;
+  text-align: center;
+  padding: 1.2rem 0;
+}
+
+.quiz__image{
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+}
+
+.quiz__right {
+  padding: 2rem 5rem;
+}
+
+.quiz__content {
+  margin-top: 5rem;
+}
+
+.quiz__statment {
+  font-size: 1.2rem;
+}

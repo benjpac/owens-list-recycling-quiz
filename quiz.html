@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Owen's Quiz</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css" integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4"
+    crossorigin="anonymous">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <div class="container bg-white px-0 my-4">
+    <div class="quiz">
+      <div class="quiz__left">
+        <div class="quiz__title">
+          <h2 class="heading-secondary">Latex Paint</h2>
+        </div>
+        <div class="quiz__image" style="background-image: url('./img/batteries.png')"></div>
+      </div>
+      <div class="quiz__right">
+        <div class="quiz__statment my-5">
+          Many people throw latex paint away. Some do this wet and that can get caught in our systems and damage trucks. Others dry
+          it out.That involves chemicals and is very wasteful.
+        </div>
+        <div class="quiz__content">
+
+          <!-- <h3 class="heading-tertiary mb-4">
+            How many pounds of latex paint does seattle throw away every year?
+          </h3>
+          <div class="quiz__btn-group mt-5">
+            <button class="btn-quiz">83,705</button>
+            <button class="btn-quiz">1,102,116</button>
+            <button class="btn-quiz">441,776</button>
+          </div> -->
+
+          <!-- Quiz 1 -->
+          <div id="q1">
+            <h3 class="heading-tertiary mb-4">
+              Clothes and shoes stop being useful for all kinds of reasons. Sometimes they go out of style. Other times they tear or get
+              stained. No matter the cause, nearly all can avoid the trash!
+            </h3>
+            <div class="quiz__btn-group mt-5">
+              <button type="button" class="btn-quiz" id="wrong1">3,458,903</button>
+              <button type="button" class="btn-quiz" id="correct1">11,825,657</button>
+              <button type="button" class="btn-quiz" id="wrong11">2,365,786</button>
+            </div>
+          </div>
+
+          <!-- Quiz 2 -->
+          <div id="q2">
+            <h3 class="heading-tertiary mb-4">
+              Plastic bags are everywhere, including filling up our oceans. Many people mistakenly try to recycle these and that comes
+              with another set of problems. Recycle it instead!
+            </h3>
+            <div class="quiz__btn-group mt-5">
+              <button type="button" class="btn-quiz" id="correct2">2,586,717</button>
+              <button type="button" class="btn-quiz" id="wrong2">1,368,796</button>
+              <button type="button" class="btn-quiz" id="wrong22">4,348,987</button>
+            </div>
+          </div>
+
+          <!-- Quiz 3 -->
+          <div id="q3">
+            <h3 class="heading-tertiary mb-4">
+              We get things shipped to us in Styrofoam because it’s so light and durable. Not only does it take up lots of space in our
+              trash, but it also takes over 1 million years to break down!
+            </h3>
+            <div class="quiz__btn-group mt-5">
+              <button type="button" class="btn-quiz" id="wrong3">978,371</button>
+              <button type="button" class="btn-quiz" id="correct3">1,102,116</button>
+              <button type="button" class="btn-quiz" id="wrong33">1,358,860</button>
+            </div>
+          </div>
+          <!-- Quiz 4 -->
+          <div id="q4">
+            <h3 class="heading-tertiary mb-4">
+              Many people throw latex paint away. Some do this wet and that can get caught in our systems and damage trucks. Others dry
+              it out. That involves chemicals and is very wasteful.
+            </h3>
+            <div class="quiz__btn-group mt-5">
+              <button type="button" class="btn-quiz" id="wrong4">83,705</button>
+              <button type="button" class="btn-quiz" id="wrong44">1,102,116</button>
+              <button type="button" class="btn-quiz" id="correct4">441,716</button>
+            </div>
+          </div>
+          <!-- Quiz 5 -->
+          <div id="q5">
+            <h3 class="heading-tertiary mb-4">
+              Batteries are made of a combination of metals and chemicals. When they run out, you can do better than throwing them in the
+              trash where they can cause damage to our planet.
+            </h3>
+            <div class="quiz__btn-group mt-5">
+              <button type="button" class="btn-quiz" id="correct5">83,705</button>
+              <button type="button" class="btn-quiz" id="wrong5">46,879</button>
+              <button type="button" class="btn-quiz" id="wrong55">76,324</button>
+            </div>
+          </div>
+
+          <!-- Quiz 6 -->
+          <div id="q6">
+            <h3 class="heading-tertiary mb-4">
+              iPods, Walkmen, Flip Phones. Many of us have old electronics like this laying around. What can be done with them when we’ve
+              moved on to new things?.
+            </h3>
+            <div class="quiz__btn-group mt-5">
+              <button type="button" class="btn-quiz" id="correct6">1,381,133</button>
+              <button type="button" class="btn-quiz" id="wrong6">2,036,971</button>
+              <button type="button" class="btn-quiz" id="wrong66">978,357</button>
+            </div>
+          </div>
+          <!-- Quiz 7 -->
+          <div id="q7">
+            <h3 class="heading-tertiary mb-4">
+              Feeling dark because a light bulb or tube went out? Don’t make it worse by throwing them in the trash. It’s wasteful, dangerous
+              and could be against the law!
+            </h3>
+            <div class="quiz__btn-group mt-5">
+              <button type="button" class="btn-quiz" id="correct7">74,404</button>
+              <button type="button" class="btn-quiz" id="wrong7">87,124</button>
+              <button type="button" class="btn-quiz" id="wrong77">110,357</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js" integrity="sha384-uefMccjFJAIv6A+rW+L4AHf99KvxDjWSu1z9VI8SKNVmz4sk7buKt/6v9KI65qnm"
+    crossorigin="anonymous"></script>
+  <script src="main.js"></script>
+</body>
+
+</html>
