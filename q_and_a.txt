@@ -1,0 +1,104 @@
+Clothing/Shoes
+Question: intro text
+Clothes and shoes stop being useful for all kinds of reasons. Sometimes they go out of style. Other times they tear or get stained. No matter the cause, nearly all can avoid the trash!
+Question: answer choices
+3,458,903
+11,825,657
+2,365,786 
+Answer: correct answer
+11,825,657 
+Answer: explanation header (in bold)
+That’s more than the space needle!
+Answer: explanation detail
+Instead of throwing away all of your old clothes and shoes, you can recycle it instead! 
+Our local partners first see if old clothes and shoes can still be worn. If that’s not possible, they will turn the materials into new things like insulation and other types of clothing!
+
+Plastic Film
+Question: intro text
+Plastic bags are everywhere, including filling up our oceans. Many people mistakenly try to recycle these and that comes with another set of problems. Recycle it instead!
+Question: answer choices
+2,586,717 
+1,368,796
+4,348,987
+Answer: correct answer
+2,586,717 
+Answer: explanation header (in bold)
+That’s more than three 747 airplanes!
+Answer: explanation detail
+Instead of throwing away your plastic film, recycle it instead!
+Drop-off recycling for plastic film makes sure it doesn’t cause problems that can happen when it goes in your traditional bins. Instead, you can help turn it into decking material!
+
+Styrofoam
+Question: intro text
+We get things shipped to us in Styrofoam because it’s so light and durable. Not only does it take up lots of space in our trash, but it also takes over 1 million years to break down!
+Question: answer choices
+978,371
+1,102,116
+1,358,860 
+Answer: correct answer
+1,102,116 
+Answer: explanation header (in bold)
+That’s more than a locomotive!
+Answer: explanation detail
+Instead of filling up your trash can with Styrofoam, you can recycle it locally!
+Our partner accepts two different kinds of styrofoam as well as peanuts! They heat it up and form it into blocks that are later turned into things like picture frames and molding.
+
+Latex Paint
+Question: intro text
+Many people throw latex paint away. Some do this wet and that can get caught in our systems and damage trucks. Others dry it out. That involves chemicals and is very wasteful.
+Question: answer choices
+83,705
+1,102,116
+441,716
+Answer: correct answer
+441,716
+Answer: explanation header (in bold)
+That’s more than this house weighs!
+Answer: explanation detail
+Instead of sending your unused latex paint to a landfill, you can recycle it locally!
+Our partner will accept all colors and quantities and will mix it in with other things to be able to create new colors that are as good as new. They will also recycle the cans!
+
+Batteries
+Question: intro text
+Batteries are made of a combination of metals and chemicals. When they run out, you can do better than throwing them in the trash where they can cause damage to our planet.
+Question: answer choices
+83,705
+46,879
+76,324
+Answer: correct answer
+83,705 
+Answer: explanation header (in bold)
+That’s more than 8 cars!
+Answer: explanation detail
+Instead of throwing batteries into the garbage, you can recycle them and keep them safe!
+Our partners make sure the chemicals from batteries don’t cause any damage to our environment. Even better, they can also recover metals they are made out of!
+
+Electronics
+Question: intro text
+iPods, Walkmen, Flip Phones. Many of us have old electronics like this laying around. What can be done with them when we’ve moved on to new things?
+Question: answer choices
+1,381,133 
+2,036,971
+978,357
+Answer: correct answer
+1,381,133 
+Answer: explanation header (in bold)
+That’s  more than the weight of 8k people!
+Answer: explanation detail
+Don’t throw your old electronics in the trash! You can recycle them instead!
+Our local partners will find out which of your old electronics have some life in them. None left? They can take them apart and use the metals and glass in new things. Win/Win!
+
+Light Bulbs 
+Question: intro text
+Feeling dark because a light bulb or tube went out? Don’t make it worse by throwing them in the trash. It’s wasteful, dangerous and could be against the law!
+Question: answer choices
+74,404
+87,124
+110,357
+Answer: correct answer
+74,404 
+Answer: explanation header (in bold)
+That’s more than 8 elephants!
+Answer: explanation detail
+Don’t throw your old light bulbs and tubes in the trash! That might even be illegal!
+CFL bulbs and tubes are especially dangerous. Make sure to recycle them. That prevents them from causing harm and the glass and metal can also be recycled.
